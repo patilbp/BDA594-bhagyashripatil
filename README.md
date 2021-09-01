@@ -1,4 +1,3 @@
-"# BDA594-bhagyashripatil" 
 # Bhagyashri Patil
 
 ## BDA/GEOG594 Class : https://sdsu.instructure.com/courses/79732
