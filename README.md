@@ -5,4 +5,4 @@
 > What is Big Data ?
 ## Big Data is when the size of the data is itself is a problem for computation. We need to study & use the tools which help us in dealing with this big data.
 
-![GitHub Logo](/images/bp-photo.png)
+![Bhagyashri Patil](/images/bp-photo.png)
